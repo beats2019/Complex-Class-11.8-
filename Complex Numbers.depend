@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1562376153 source:d:\ppi\easyform\complex numbers\complex main.cpp
+	<iostream>
+	"Complex.h"
+
+1562376330 source:d:\ppi\easyform\complex numbers\src\complex.cpp
+	"Complex.h"
+	<iostream>
+
+1562376330 d:\ppi\easyform\complex numbers\include\complex.h
+	<iostream>
+
